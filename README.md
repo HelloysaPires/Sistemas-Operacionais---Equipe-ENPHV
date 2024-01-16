@@ -29,10 +29,13 @@ B.	Streaming de Jogos e Codificação de Vídeo
 
 C.	Edge Computing e Processamento Próximo ao Usuário  
 	O conceito de edge computing é habilmente incorporado, introduzindo servidores de borda que não apenas descentralizam a carga computacional, mas também estrategicamente posicionam o processamento mais próximo dos usuários finais. Esta abordagem minimiza a latência, crucial para manter a sincronia em tempo real e a imersão do jogador.  
+ 
 D.	Redes de Alta Velocidade e Baixa Latência com Protocolos Eficientes
 	O	XCloud não se limita à mera transmissão de dados; ele orquestra uma sinfonia de protocolos de comunicação eficientes, como o HTTP/2 e WebSockets. Estes protocolos são meticulosamente otimizados para reduzir a latência e aprimorar a resposta, garantindo uma comunicação fluída entre os servidores e os dispositivos dos jogadores.  
+ 
 E.	Machine Learning para Adaptação Dinâmica  
 	A inteligência artificial entra em cena através de algoritmos de aprendizado de máquina que monitoram e analisam padrões de uso em tempo real. Esta adaptação dinâmica permite ao XCloud ajustar proativamente a alocação de recursos, otimizando a entrega do jogo conforme as condições de demanda e a variabilidade das redes.  
+ 
 F.	Segurança e Privacidade com Criptografia Avançada  
 	Em um panorama onde a segurança é primordial, o XCloud incorpora criptografia de ponta para salvaguardar a integridade dos dados transmitidos. Essas técnicas avançadas não só protegem contra ameaças cibernéticas, mas também garantem a privacidade intrínseca dos jogadores.  
 
