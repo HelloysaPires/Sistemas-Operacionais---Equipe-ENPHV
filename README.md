@@ -1,7 +1,7 @@
 # Sistemas-Operacionais-Equipe-ENPHV
 Atividade avaliativa 03 - Sistemas Operacionais
 
-1st Helloysa Pires de Almeida - 202107019
+1st Helloysa Pires de Almeida - 202107019  
 2nd Nícolas Marcelo Maulaiz - 202107032
 3rd Eduardo Pina Fleury Fortuna - 202107008
 4th Pedro Luna Souto Rodrigues - 202107034
